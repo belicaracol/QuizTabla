@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.container{
+  width: 80%;
+  height: 80%;
+  background-color: #1a202c;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  color: #fff;
+  text-align: center;
+  padding: 12px;
+}
+.tablaperiodica{
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  padding: 30px;
+}
+table{
+  /* border: 1px solid #fff; */
+  width: auto;
+}
+table tr td{
+  border: 1px solid #fff;
+  width: 48px;
+  height: 48px;
+  padding: 4px;
+}
+.verdesito{
+  background-color: #76ff25;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.verdesito:hover{
+  border: 1px solid #76ff25;
+  background-color: #1a202c;
+  color: #76ff25;
+}
+.naranja{
+  background-color: #F28D27;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.naranja:hover{
+  border: 1px solid #F28D27;
+  background-color: #1a202c;
+  color: #F28D27;
+}
+.amarillo{
+  background-color: #F3D125;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.amarillo:hover{
+  border: 1px solid #F3D125;
+  background-color: #1a202c;
+  color: #F3D125;
+}
+.rosajo{
+  background-color: #892140;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.rosajo:hover{
+  border: 1px solid #892140;
+  background-color: #1a202c;
+  color: #892140;
+}
+.naranjoso{
+  background-color: #FBBC87;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.naranjoso:hover{
+  border: 1px solid #FBBC87;
+  background-color: #1a202c;
+  color: #FBBC87;
+}
+.marino{
+  background-color: #3B907C;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.marino:hover{
+  border: 1px solid #3B907C;
+  background-color: #1a202c;
+  color: #3B907C;
+}
+.verdeosc{
+  background-color: #124C16;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.verdeosc:hover{
+  border: 1px solid #124C16;
+  background-color: #1a202c;
+  color: #124C16;
+}
+.celeste{
+  background-color: #0CB0D1;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.celeste:hover{
+  border: 1px solid #0CB0D1;
+  background-color: #1a202c;
+  color: #0CB0D1;
+}
+.marinosc{
+  background-color: #2F5A50;
+  color: #1a202c;
+  border: none;
+  border-radius: 8px;
+}
+.marinosc:hover{
+  border: 1px solid #2F5A50;
+  background-color: #1a202c;
+  color: #2F5A50;
+}
